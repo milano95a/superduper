@@ -1,0 +1,33 @@
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741.DAL\bin\Debug\SuperDuper_3741.DAL.dll.config
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741.DAL\bin\Debug\SuperDuper_3741.DAL.dll
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741.DAL\bin\Debug\SuperDuper_3741.DAL.pdb
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741.DAL\bin\Debug\SuperDuper_3741.DAL.xml
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741.DAL\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.Resources.resources
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.dll
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.xml
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.pdb
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741.DAL\bin\Debug\SuperDuper_3741.DAL.dll.config
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741.DAL\bin\Debug\SuperDuper_3741.DAL.dll
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741.DAL\bin\Debug\SuperDuper_3741.DAL.pdb
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741.DAL\bin\Debug\SuperDuper_3741.DAL.xml
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741.DAL\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.vbprojResolveAssemblyReference.cache
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.Resources.resources
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.vbproj.GenerateResource.Cache
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.dll
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.xml
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.pdb
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741.DAL\bin\Debug\SuperDuper_3741.DAL.dll.config
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741.DAL\bin\Debug\SuperDuper_3741.DAL.dll
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741.DAL\bin\Debug\SuperDuper_3741.DAL.pdb
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741.DAL\bin\Debug\SuperDuper_3741.DAL.xml
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741.DAL\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.vbprojResolveAssemblyReference.cache
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.Resources.resources
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.vbproj.GenerateResource.Cache
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.dll
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.xml
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741.DAL\obj\Debug\SuperDuper_3741.DAL.pdb

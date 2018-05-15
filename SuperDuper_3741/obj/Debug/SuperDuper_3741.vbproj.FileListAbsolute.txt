@@ -1,0 +1,63 @@
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper_3741.exe.config
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper.sdf
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper_3741.exe
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper_3741.pdb
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper_3741.xml
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.Resources.resources
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.ParentForm.resources
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.exe
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.xml
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.pdb
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.AboutForm.resources
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.ProductListForm.resources
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper_3741.DAL.dll
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper_3741.DAL.pdb
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper_3741.DAL.xml
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.PurchaseOrderListForm.resources
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.ProductEditForm.resources
+C:\Users\User\Desktop\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.PurchaseOrderEditForm.resources
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper.sdf
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper_3741.exe.config
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper_3741.exe
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper_3741.pdb
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper_3741.xml
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper_3741.DAL.dll
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper_3741.DAL.pdb
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\bin\Debug\SuperDuper_3741.DAL.xml
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.vbprojResolveAssemblyReference.cache
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.AboutForm.resources
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.Resources.resources
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.ParentForm.resources
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.ProductEditForm.resources
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.ProductListForm.resources
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.PurchaseOrderEditForm.resources
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.PurchaseOrderListForm.resources
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.vbproj.GenerateResource.Cache
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.exe
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.xml
+C:\Users\AJ\Downloads\00003741_CW 1_EUZC400_2015-2016\SuperDuper_3741\SuperDuper_3741\obj\Debug\SuperDuper_3741.pdb
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\bin\Debug\SuperDuper.sdf
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\bin\Debug\SuperDuper_3741.exe.config
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\bin\Debug\SuperDuper_3741.exe
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\bin\Debug\SuperDuper_3741.pdb
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\bin\Debug\SuperDuper_3741.xml
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\bin\Debug\SuperDuper_3741.DAL.dll
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\bin\Debug\SuperDuper_3741.DAL.pdb
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\bin\Debug\SuperDuper_3741.DAL.xml
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\obj\Debug\SuperDuper_3741.vbprojResolveAssemblyReference.cache
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\obj\Debug\SuperDuper_3741.AboutForm.resources
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\obj\Debug\SuperDuper_3741.Resources.resources
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\obj\Debug\SuperDuper_3741.ParentForm.resources
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\obj\Debug\SuperDuper_3741.ProductEditForm.resources
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\obj\Debug\SuperDuper_3741.ProductListForm.resources
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\obj\Debug\SuperDuper_3741.PurchaseOrderEditForm.resources
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\obj\Debug\SuperDuper_3741.PurchaseOrderListForm.resources
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\obj\Debug\SuperDuper_3741.vbproj.GenerateResource.Cache
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\obj\Debug\SuperDuper_3741.exe
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\obj\Debug\SuperDuper_3741.xml
+C:\Users\AJ\Desktop\SuperDuper\SuperDuper_3741\obj\Debug\SuperDuper_3741.pdb
